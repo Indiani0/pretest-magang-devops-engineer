@@ -16,26 +16,26 @@ Cara pengerjaan, silahkan update file ini tulis jawabanya di bawah ini
 2. Infrastruktur adalah sekumpulan fasilitas dan sistem yang melayani suatu negara, kota, atau area lain, dan mencakup layanan dan fasilitas yang diperlukan agar ekonomi, rumah tangga, dan perusahaan berfungsi.
 3. Server adalah komputer atau sistem yang menyediakan sumber daya, data, layanan, atau program ke komputer lain, yang dikenal sebagai klien, melalui jaringan. Secara teori, setiap kali komputer berbagi sumber daya dengan mesin klien, mereka dianggap sebagai server.
 
-&nbsp; Istilah server dapat merujuk ke Physical Machine,  Virtual Machine, atau perangkat lunak yang menjalankan layanan server. Cara kerja server sangat bervariasi tergantung pada bagaimana server kata digunakan.  
+    Istilah server dapat merujuk ke Physical Machine,  Virtual Machine, atau perangkat lunak yang menjalankan layanan server. Cara kerja server sangat bervariasi tergantung pada bagaimana server kata digunakan.  
 •	Server fisik hanyalah sebuah komputer yang digunakan untuk menjalankan perangkat lunak server.  
 •	Server virtual adalah representasi virtual dari server fisik. Seperti server fisik, server virtual menyertakan sistem operasi dan aplikasinya sendiri. Ini disimpan terpisah dari server virtual lain yang mungkin berjalan di server fisik.
 
-Contohnya;
-•	Web Servers - Internet didasarkan pada server web yang menanggapi permintaan dari klien seperti web browser
-•	API - Server yang mengimplementasikan fungsionalitas untuk perangkat lunak lain dengan menawarkan API
+    Contohnya;  
+•	Web Servers - Internet didasarkan pada server web yang menanggapi permintaan dari klien seperti web browser  
+•	API - Server yang mengimplementasikan fungsionalitas untuk perangkat lunak lain dengan menawarkan API  
 •	File Server - Menyediakan akses ke file
 
 4. High Performance: Server dengan kinerja yang tinggi dapat membantu meningkatkan kecepatan situs web dengan lebih baik
 
-Instant response for web development company: Perusahaan pengembang aplikasi web perlu memeriksa dan memverifikasi hasil script mereka secara real time di Internet. Pentingnya untuk memiliki server web yang kuat, responsif, dan andal yang dapat membantu Anda dalam situasi pengembangan yang kompleks.
+    Instant response for web development company: Perusahaan pengembang aplikasi web perlu memeriksa dan memverifikasi hasil script mereka secara real time di Internet. Pentingnya untuk memiliki server web yang kuat, responsif, dan andal yang dapat membantu Anda dalam situasi pengembangan yang kompleks.
 
-Flexibility and control over website: Paket hosting bersama dan VPS hanya mengizinkan sejumlah kecil perubahan pada konfigurasi perangkat lunak server. Tidak cukup hak istimewa server yang diberikan kepada pengguna sehingga mereka tidak dapat menginstal perangkat lunak baru. Sedangkan, server khusus memungkinkan pengguna untuk mengubah setiap aspek konfigurasi perangkat lunak server bersama dengan sistem operasinya. Perusahaan pengembang perangkat lunak dapat memaksimalkan potensinya dengan menggunakan server khusus.
+    Flexibility and control over website: Paket hosting bersama dan VPS hanya mengizinkan sejumlah kecil perubahan pada konfigurasi perangkat lunak server. Tidak cukup hak istimewa server yang diberikan kepada pengguna sehingga mereka tidak dapat menginstal perangkat lunak baru. Sedangkan, server khusus memungkinkan pengguna untuk mengubah setiap aspek konfigurasi perangkat lunak server bersama dengan sistem operasinya. Perusahaan pengembang perangkat lunak dapat memaksimalkan potensinya dengan menggunakan server khusus.
 
-Security: Server dapat menyediakan lingkungan yang jauh lebih aman dan tahan resiko, anda tidak diharuskan juga membagikan sumber daya anda dengan pemilik web lain di server tertentu. Dengan demikian, anda lebih terlindung dari peretas dan pelanggaran keamanan yang ada.
+    Security: Server dapat menyediakan lingkungan yang jauh lebih aman dan tahan resiko, anda tidak diharuskan juga membagikan sumber daya anda dengan pemilik web lain di server tertentu. Dengan demikian, anda lebih terlindung dari peretas dan pelanggaran keamanan yang ada.
 
 5. Virtualisasi adalah proses yang memungkinkan komputer untuk berbagi sumber daya perangkat kerasnya dengan beberapa lingkungan yang terpisah secara digital. Setiap lingkungan tervirtualisasi berjalan dalam sumber daya yang dialokasikan, seperti memori, daya pemrosesan, dan penyimpanan. Ini juga mendukung layanan komputasi awan yang membantu organisasi mengelola infrastruktur dengan lebih efisien.
 
-Container adalah paket perangkat lunak yang berisi semua elemen yang diperlukan untuk dijalankan di lingkungan apa pun. Dengan cara ini, container memvirtualisasikan sistem operasi dan berjalan di mana saja, dari pusat data pribadi hingga cloud publik atau bahkan di laptop pribadi pengembang.
+    Container adalah paket perangkat lunak yang berisi semua elemen yang diperlukan untuk dijalankan di lingkungan apa pun. Dengan cara ini, container memvirtualisasikan sistem operasi dan berjalan di mana saja, dari pusat data pribadi hingga cloud publik atau bahkan di laptop pribadi pengembang.
 
 6. Container menjadi populer karena menyediakan alat yang ampuh untuk mengatasi beberapa masalah penting pengembang aplikasi, termasuk kebutuhan pengiriman yang lebih cepat, ketangkasan, portabilitas, modernisasi, dan manajemen siklus hidup.
 
