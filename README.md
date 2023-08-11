@@ -16,8 +16,8 @@ Cara pengerjaan, silahkan update file ini tulis jawabanya di bawah ini
 2. Infrastruktur adalah sekumpulan fasilitas dan sistem yang melayani suatu negara, kota, atau area lain, dan mencakup layanan dan fasilitas yang diperlukan agar ekonomi, rumah tangga, dan perusahaan berfungsi.
 3. Server adalah komputer atau sistem yang menyediakan sumber daya, data, layanan, atau program ke komputer lain, yang dikenal sebagai klien, melalui jaringan. Secara teori, setiap kali komputer berbagi sumber daya dengan mesin klien, mereka dianggap sebagai server.
 
-Istilah server dapat merujuk ke Physical Machine,  Virtual Machine, atau perangkat lunak yang menjalankan layanan server. Cara kerja server sangat bervariasi tergantung pada bagaimana server kata digunakan.
-•	Server fisik hanyalah sebuah komputer yang digunakan untuk menjalankan perangkat lunak server.
+&nbsp; Istilah server dapat merujuk ke Physical Machine,  Virtual Machine, atau perangkat lunak yang menjalankan layanan server. Cara kerja server sangat bervariasi tergantung pada bagaimana server kata digunakan.  
+•	Server fisik hanyalah sebuah komputer yang digunakan untuk menjalankan perangkat lunak server.  
 •	Server virtual adalah representasi virtual dari server fisik. Seperti server fisik, server virtual menyertakan sistem operasi dan aplikasinya sendiri. Ini disimpan terpisah dari server virtual lain yang mungkin berjalan di server fisik.
 
 Contohnya;
